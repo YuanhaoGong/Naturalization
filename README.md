@@ -9,6 +9,7 @@ From left to right: original image, Adaptive Manifold, Guided Filter, Relative T
 ![image](4.png)
 ![image](5.png)
 ## Image Quality Assessment
+__naturalization factor__ can be used to indicate image quality. Details can be found at {http://mosaic.mpi-cbg.de/?q=downloads/naturalization}
 ![image](quality.png)
 ## Noise Level Estimation
 __paper__ and __souce code__ can be found at {http://mosaic.mpi-cbg.de/?q=downloads/naturalization}
