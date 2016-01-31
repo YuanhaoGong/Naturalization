@@ -9,15 +9,15 @@
 @ARTICLE{gong:gdp, 
 author={Gong, Y. and Sbalzarini, I.F.}, 
 journal={Selected Topics in Signal Processing, IEEE Journal of}, 
-title={A Natural-Scene Gradient Distribution Prior for Light-Microscopy Image Processing}, 
-year={2015}, 
-volume={PP}, 
-number={99}, 
-pages={1-1}, 
-keywords={Economic indicators;Histograms;Image reconstruction;Microscopy;Parametric statistics;Gradient distribution;deconvolution;dehazing;denoising;naturalization;noiselevel estimation;parametric prior;variational method}, 
+title={A Natural-Scene Gradient Distribution Prior and its Application in Light-Microscopy Image Processing}, 
+year={2016}, 
+volume={10}, 
+number={1}, 
+pages={99-114}, 
+keywords={Economic indicators;Histograms;Image reconstruction;Microscopy;Parametric statistics;Deconvolution;dehazing;denoising;gradient distribution;naturalization;noise-level estimation;parametric prior;variational method}, 
 doi={10.1109/JSTSP.2015.2506122}, 
 ISSN={1932-4553}, 
-month={Dec},}
+month={Feb},}
 
 @conference{Gong:2014a,
 	Abstract = {We propose to use gradient distribution specification for image en- hancement. The specified gradient distribution is learned from natural-scene im- age datasets. This enhances image quality based on two facts: First, the specified distribution is independent of image content. Second, the distance between the learned distribution and the empirical distribution of a given image correlates with subjectively perceived image quality. Based on those two facts, remapping an image such that the distribution of its gradients (and therefore also Laplacians) matches the specified distribution is expected to improve the quality of that im- age. We call this process ``image naturalization''. Our experiments confirm that naturalized images are more appealing to visual perception. Moreover, ``natural- ness'' can be used as a measure of image quality when ground-truth is unknown.},
